@@ -10,6 +10,19 @@ Este contenido tiene **fines exclusivamente educativos y de concientización** s
 
 📺 Ver video completo: https://youtu.be/x4QMOMYFnQ4?si=u2ViEZi9gE3McJy7
 
+![Portada del video](portada.png)
+
+...
+
+## 🛠️ Dorks / Filtros utilizados en Shodan
+
+\`\`\`
+title:"OctoPrint" true
+\`\`\`
+
+![Hallazgo en Shodan - impresora OctoPrint expuesta](shodan-hallazgo1.jpg)
+![Hallazgo en Shodan - panel de control accesible](shodan-hallazgo2.jpg)
+
 ## 🛠️ Dorks / Filtros utilizados en Shodan
 
 \`\`\`
