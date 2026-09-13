@@ -20,8 +20,8 @@ Este contenido tiene **fines exclusivamente educativos y de concientización** s
 title:"OctoPrint" true
 \`\`\`
 
-![Hallazgo en Shodan - impresora OctoPrint expuesta](shodan-hallazgo1.jpg)
-![Hallazgo en Shodan - panel de control accesible](shodan-hallazgo2.jpg)
+![Hallazgo en Shodan - impresora OctoPrint expuesta](shodan-hallazgo1.JPG)
+![Hallazgo en Shodan - panel de control accesible](shodan-hallazgo2.JPG)
 
 ## 🛠️ Dorks / Filtros utilizados en Shodan
 
